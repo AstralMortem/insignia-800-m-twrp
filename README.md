@@ -2,3 +2,5 @@
 ## Custom recovery for GoClever Insignia 800 M
 
 ### twrp-3.0.1-0
+
+contact me vladchaluk@gmail.com
