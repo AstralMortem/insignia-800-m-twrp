@@ -1,7 +1,7 @@
 # Insinia 800 M TWRP
 ## Custom recovery for GoClever Insignia 800 M
 <hr>
-## Как установить
+## How install
 
 ```
 1. Установи SP Flash Tool
