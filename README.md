@@ -1,6 +1,6 @@
 # Insinia 800 M TWRP
 ## Custom recovery for GoClever Insignia 800 M
-<hr>
+
 ## How install
 
 ```
